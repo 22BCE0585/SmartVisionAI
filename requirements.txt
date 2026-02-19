@@ -2,7 +2,7 @@ pip install numpy
 pip install pandas
 pip install matplotlib
 pip install seaborn
-pip install opencv-python //img - mtrx - tnsr
+pip install opencv-python
 pip install pillow
 pip install pytesseract
 pip install scikit-learn
